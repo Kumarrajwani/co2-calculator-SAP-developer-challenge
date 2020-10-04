@@ -1,0 +1,14 @@
+{
+  "name": "co2_emission_calculator",
+  "version": "1.0.0",
+  "description": "This tool computes the amount of CO2-equivalent",
+  "main": "co2-calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
